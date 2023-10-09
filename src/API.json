@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Custom Web Development",
+        "image": "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=826&t=st=1696777181~exp=1696777781~hmac=93443d5cce7d7e6464066405825aea23aff523227a33be938dab449d36f09b54",
+        "description": "I specialize in creating custom, interactive, and feature-rich websites and web applications from scratch. Whether you need a corporate website, an e-commerce platform, or a dynamic web app, I can bring your vision to life."
+    },
+    {
+        "id": 2,
+        "title": "User Interface (UI) Design",
+        "image": "https://img.freepik.com/free-vector/mobile-ux-concept-illustration_114360-4430.jpg?w=826&t=st=1696777209~exp=1696777809~hmac=0c258ef5574e277762df9f6e54de16e4d64a5b1ac952a0132c7ff64acb1b092e",
+        "description": "I focus on creating intuitive and visually appealing user interfaces. Through careful consideration of user experience (UX) principles, I design interfaces that are easy to navigate, enhancing user satisfaction and engagement."
+    },
+    {
+        "id": 3,
+        "title": "Front-end Frameworks",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-api-illustration_23-2149365021.jpg?w=826&t=st=1696777276~exp=1696777876~hmac=555cfc07478baeb1f3aaead31c4aed38b67b17c7b61c5a450082ffa51efbe904",
+        "description": "I am proficient in utilizing popular front-end frameworks like Bootstrap, Foundation, and Materialize CSS to accelerate the development process. These frameworks enable me to create responsive, mobile-friendly, and visually appealing websites efficiently."
+    },
+    {
+        "id": 4,
+        "title": "Interactive Elements",
+        "image": "https://img.freepik.com/free-vector/people-using-aumented-reality-smartphones_23-2148777959.jpg?w=826&t=st=1696777427~exp=1696778027~hmac=2c61baf28137668968e436ef93ab6ea05751e2e3ab767b6ae852ab8fd5f3d96d",
+        "description": "I integrate interactive elements such as sliders, carousels, modals, and form validations to enhance user engagement and provide a dynamic user experience."
+    },
+    {
+        "id": 5,
+        "title": "Code Quality and Compliance",
+        "image": "https://img.freepik.com/free-vector/qa-engineers-concept-illustration_114360-1359.jpg?w=826&t=st=1696777494~exp=1696778094~hmac=f262b586f9cd0aca96ecbc0208f1a1d8184cd64a39ef5e147705a6d6407bc37c",
+        "description": "I follow industry best practices and maintain clean, well-documented, and standards-compliant code. This approach ensures the longevity of your website and simplifies future maintenance and updates."
+    },
+    {
+        "id": 6,
+        "title": "Collaborative Approach",
+        "image": "https://img.freepik.com/free-vector/business-merger-projects-concept-illustration_114360-8762.jpg?w=826&t=st=1696777525~exp=1696778125~hmac=9af972607f9dedc3c6c46ad33a8da43e5a1658465c2d01d83cbff6739cf3bbff",
+        "description": "I believe in transparent communication and collaboration. Throughout the development process, I keep you informed, share progress updates, and incorporate your feedback to ensure the final product aligns with your vision."
+    }
+]
